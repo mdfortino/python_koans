@@ -9,7 +9,6 @@ class AboutAsserts(Koan):
         """
         We shall contemplate truth by testing reality, via asserts.
         """
-
         # Confused? This video should help:
         #
         #   http://bit.ly/about_asserts
